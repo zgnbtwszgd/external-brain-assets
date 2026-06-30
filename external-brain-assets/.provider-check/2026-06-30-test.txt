@@ -1,0 +1,2 @@
+external-brain provider check
+This is a safe public test asset for upload, verify, and delete preflight.
